@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src = "coding.gif" width = "325px" align = "right">
 
-<!--
-**GusGul/GusGul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❤ Olá, bom ter você por aqui!
+  <div id="badges">
+  <a href = "https://github.com/GusGul">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+Sou programador, estudante da carreira Full-Stack e de bancos de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estudante de Ciência da Computação
+- 👩‍💻 Aprendendo algo sobre front-end e back-end
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
