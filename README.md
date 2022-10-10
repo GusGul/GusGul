@@ -9,7 +9,7 @@
 
 Sou programador, estudante da carreira Full-Stack e de bancos de dados.
 
-- 💻 Estudante de Ciência da Computação
+- 💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP)
 - 👩‍💻 Aprendendo algo sobre front-end e back-end
 
 <div>
@@ -19,12 +19,15 @@ Sou programador, estudante da carreira Full-Stack e de bancos de dados.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+  <img img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" width="395em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
