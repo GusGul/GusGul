@@ -2,6 +2,9 @@
 
 # Olá, bom ter você por aqui! 👋
   <div id="badges">
+  <a href = "mailto:gustavosalgadolima+git@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   <a href = "https://www.linkedin.com/in/gustavo-salgado-lima">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
