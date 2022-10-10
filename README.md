@@ -27,7 +27,7 @@ Sou programador, estudante da carreira Full-Stack e de bancos de dados.
 ---
 
 
-<div align = "center">
-<img height = "200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
