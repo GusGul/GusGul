@@ -1,6 +1,6 @@
 <img src = "coding.gif" width = "325px" align = "right">
 
-# Olá, bom ter você por aqui! 👋
+# Olá, bom ter você por aqui! Welcome to my profile! 👋
   <div id="badges">
   <a href = "mailto:gustavosalgadolima+git@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -10,10 +10,10 @@
   </a>
 </div>
 
-Sou programador, estudante da carreira Full-Stack e de bancos de dados.
+Sou desenvolvedor Full-Stack, mas também estudo outras áreas da programação.
+I'm a Full-Stack developer, but I also study about many others branches of programming.
 
-- 💻 Estudante de Ciência da Computação na Universidade Paulista (UNIP)
-- 👩‍💻 Aprendendo algo sobre front-end e back-end
+- 💻 Estudante de Ciência da Computação | Computer Science student - Universidade Paulista (UNIP)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
