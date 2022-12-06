@@ -30,7 +30,7 @@ I'm a Full-Stack developer, but I also study about many others branches of progr
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div align = "center">
+<img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&show_icons=true&theme=bear&count_private=true"/>
+<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
