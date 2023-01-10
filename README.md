@@ -24,7 +24,7 @@ I'm a Full-Stack developer, but I also study about many others branches of progr
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" alt="csharp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
