@@ -35,6 +35,6 @@ I'm a Full-Stack developer, but I also study about many others branches of progr
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GusGul&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGul&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GusGul&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GusGul&layout=compact&langs_count=7&theme=dark"/>
 </div>
