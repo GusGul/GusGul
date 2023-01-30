@@ -37,5 +37,5 @@ I'm a Full-Stack developer, but I also study about many others branches of progr
 <div align="center">
   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GusGul&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GusGul&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=GusGul&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&border=DDB512"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=GusGul&theme=dark&date_format=j%20M%5B%20Y%5D"/>
 </div>
